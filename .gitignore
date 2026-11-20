@@ -1,0 +1,10 @@
+target/
+bin/
+*.class
+*.jar
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+receipts/*.txt
